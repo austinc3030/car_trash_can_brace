@@ -1,0 +1,23 @@
+Inner Dimmensions of Bag
+184.15 mm
+146.05 mm
+
+Desired Inner Wall Thickness
+3.175 mm
+
+Desired Inner Wall Depth
+19.05 mm
+
+Desired Overall Depth
+22.225 mm
+
+Desired Lip Thickness
+6.35 mm
+
+Desired Outer Dimensions
+196.85 mm X
+158.75 mm Y
+
+Desired Inner Dimmesions
+177.8 mm X
+139.7 mm Y
